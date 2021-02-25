@@ -6,3 +6,5 @@ Arduino: https://www.arduino.cc/en/Main/Software
 Processing: https://processing.org/
 
 Then copy and paste the code in Arduino and Procesing respectivly. Upload the Arduino sketch to your Arduino Nano and then run the procesing sketch.
+
+//Emil Andreasson 20 years old and love electronics
